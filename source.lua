@@ -114,7 +114,7 @@ function Orion:CreateOrion(orionName)
     libTitle.Position = UDim2.new(0.0294117648, 0, 0, 0)
     libTitle.Size = UDim2.new(0, 343, 0, 43)
     libTitle.Font = Enum.Font.GothamSemibold
-    libTitle.Text = "🎩 SHNMAXSCRIPTS 🎩 | V10.3"
+    libTitle.Text = "SHNMAXSCRIPTS | V10.3"
 l   libTitle.TextColor3 = Color3.fromRGB(255, 0, 0) 
     libTitle.TextSize = 18.000
     libTitle.TextXAlignment = Enum.TextXAlignment.Left
